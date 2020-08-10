@@ -1,5 +1,5 @@
 # Visualize-Sorting-Algorithms
-Python Application allows users to visualize the following sorting methods
+1. Python Application allows users to visualize the following sorting methods
 *Bubble Sort
 *Quick Sort
 
